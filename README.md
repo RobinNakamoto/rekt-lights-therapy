@@ -21,7 +21,7 @@ you might as well make it look pretty while it happens.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rekt-lights-therapy.git
+   git clone https://github.com/RobinNakamoto/rekt-lights-therapy.git
    cd rekt-lights-therapy
    ```
 
